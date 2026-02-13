@@ -28,7 +28,7 @@
 <td width="40%" align="center" valign="top">
 
 <!-- FROG MATRIX GIF -->
-<img src="matrix-frog.gif" width="300"/>
+<img src="giphy.webp" width="300"/>
 
 </td>
 
