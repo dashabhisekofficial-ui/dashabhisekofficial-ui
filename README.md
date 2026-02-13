@@ -25,7 +25,7 @@
 <!-- RIGHT SIDE -->
 <td width="40%" align="center" valign="top">
 
-<img src="data.gif" width="300"/>
+<img src="giphy.gif" width="300"/>
 
 </td>
 
